@@ -48,7 +48,7 @@ Replace `ci.yml` with the workflow you want to reuse.
 This project is licensed under the **MIT License**.
 
 ## 📬 Contact
-For questions or suggestions, open an issue or reach out to **[Nkwenti Severian](https://github.com/Nkwenti-Severian-Ndongtsop)**.
+For questions or suggestions, open an issue or reach out to **[JOELNATHAN544](https://github.com/JOELNATHAN544)**.
 
 🚀 Happy automating!
 
